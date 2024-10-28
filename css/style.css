@@ -355,6 +355,7 @@ a {
   margin: 0 0 7px;
 }
 .kioto_tm_mobile_menu .menu_list ul li a {
+  font-size: 20px;
   color: #000;
 }
 .kioto_tm_all_wrap .leftpart {
@@ -411,7 +412,7 @@ a {
   color: var(--bc);
   display: block;
   font-weight: 500;
-  font-size: 13px;
+  font-size: 18px;
   text-transform: uppercase;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -596,7 +597,7 @@ a {
 }
 .kioto_tm_home .name {
   position: relative;
-  font-size: 17px;
+  font-size: 18px;
   margin-bottom: 12px;
   text-transform: uppercase;
   display: inline-block;
